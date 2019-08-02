@@ -1,3 +1,11 @@
+/**************************************************
+Author      : Imri Paloja
+Email       : imri.paloja@gmail.com
+HomePage    : www.eurobytes.nl
+Version     : 0.1
+Name        : index.js
+Description : Automatic index
+**************************************************/
 /*          Notes
 
     1.  If a header has the same name - which is not recommended - 
